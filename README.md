@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/venturalabs-ai/ventura.interview)
 ![Stars](https://img.shields.io/github/stars/venturalabs-ai/ventura.interview)
 
-**Plano curado de preparação para entrevistas técnicas com treino determinístico e progressão por trilhas.**
+**Plano curado de preparação para entrevistas técnicas com treino reproduzível e progressão por trilhas.**
 
 ## Classificação
 
@@ -25,9 +25,9 @@ Inspirado por iniciativas educacionais como `coding-interview-university`, mante
 
 ## Método Ventura
 
-`EXPLORE → COMPILE → REPLAY → REGENERATE`
+`EXPLORE → COMPILE → CONSTRAINED REPLAY → REGENERATE`
 
-O objetivo é transformar o plano de estudo em uma rotina verificável, evitando reiniciar a preparação a cada sessão.
+O objetivo é transformar o plano de estudo em uma rotina verificável, evitando reiniciar a preparação a cada sessão. Respostas geradas por IA permanecem sujeitas a variação e validação.
 
 ## Métricas sugeridas
 
