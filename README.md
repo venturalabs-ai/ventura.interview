@@ -1,5 +1,9 @@
 # ventura.interview
 
+![Apache-2.0](https://img.shields.io/github/license/chamseddinehiddoud/ventura.interview)
+![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.interview)
+![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.interview)
+
 Versão **Ventura** do clássico *coding-interview-university* — guia curado de
 preparação para entrevistas técnicas, com uma skill de replay determinístico
 para treinar todos os dias sem recomeçar o plano do zero.
