@@ -1,5 +1,9 @@
 # Skill: ventura.interview — LOOP Skill Engine / Deterministic Replay
 
+![Apache-2.0](https://img.shields.io/github/license/chamseddinehiddoud/ventura.interview)
+![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.interview)
+![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.interview)
+
 Skill de preparação para entrevistas técnicas com **execução determinística**:
 explore a vaga uma vez, compile o plano, replique o treino diário com ~zero
 tokens, regenere quando o processo (ou a meta) mudar.
