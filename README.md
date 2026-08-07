@@ -1,50 +1,42 @@
 # ventura.interview
 
-![Apache-2.0](https://img.shields.io/github/license/chamseddinehiddoud/ventura.interview)
-![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.interview)
-![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.interview)
+![Status](https://img.shields.io/badge/status-curation%20%2B%20skill-blueviolet)
+![License](https://img.shields.io/github/license/venturalabs-ai/ventura.interview)
+![Stars](https://img.shields.io/github/stars/venturalabs-ai/ventura.interview)
 
-Versão **Ventura** do clássico *coding-interview-university* — guia curado de
-preparação para entrevistas técnicas, com uma skill de replay determinístico
-para treinar todos os dias sem recomeçar o plano do zero.
+**Plano curado de preparação para entrevistas técnicas com treino determinístico e progressão por trilhas.**
 
-> **Curadoria original** — este repositório organiza o plano de preparação de
-> forma própria; o guia completo de referência vive no projeto original
-> (coding-interview-university).
+## Classificação
 
-## O que é
+**Curation / Skill Repository.** É um guia de estudo próprio, não um programa oficial de recrutamento nem uma cópia de materiais de terceiros.
 
-Um plano de preparação para entrevistas técnicas em 4 trilhas: fundamentos,
-prática, sistemas e comportamento. A skill `SKILL.md` transforma o treino em
-processo determinístico (explore → compile → replay → regenere).
+## Referência upstream
 
-## Trilhas de preparação
+Inspirado por iniciativas educacionais como `coding-interview-university`, mantendo organização e método próprios.
 
-| Trilha | Foco | Tópicos essenciais |
-|---|---|---|
-| **Fundamentos** | linguagem e base | sintaxe, coleções, memória, Big-O |
-| **Algoritmos** | resolução de problemas | estruturas, ordenação, busca, DP, grafos |
-| **Sistemas** | arquitetura | escala, cache, filas, banco de dados |
-| **Comportamental** | comunicação e fit | storytelling, STAR, perguntas ao entrevistador |
+## Trilhas
 
-## Plano de treino (4 semanas)
+- fundamentos e Big-O;
+- estruturas de dados e algoritmos;
+- system design;
+- comunicação técnica;
+- entrevistas comportamentais;
+- simulações e revisão.
 
-| Semana | Objetivo | Entrega |
-|---|---|---|
-| **1** | revisar fundamentos e complexidade | 10 problemas resolvidos |
-| **2** | dominar padrões de algoritmos | 25 problemas resolvidos |
-| **3** | praticar system design | 3 desenhos completos |
-| **4** | simulados completos | 5 entrevistas simuladas |
+## Método Ventura
 
-## Como usar (com a skill)
+`EXPLORE → COMPILE → REPLAY → REGENERATE`
 
-```text
-1. Modo EXPLORE  — avalie a vaga/empresa e seu nível (uma vez)
-2. Modo COMPILE  — registre o plano em plano.md (trilhas, semana, metas)
-3. Modo REPLAY   — treino do dia: problema, padrão, tempo, revisão
-4. Modo REGENERATE — vaga/trilha mudou → regenere o plano
-```
+O objetivo é transformar o plano de estudo em uma rotina verificável, evitando reiniciar a preparação a cada sessão.
+
+## Métricas sugeridas
+
+- problemas resolvidos com revisão;
+- tempo médio por exercício;
+- padrões dominados;
+- simulados concluídos;
+- pontos de melhoria registrados.
 
 ## Licença
 
-Apache License 2.0 — Copyright (c) 2026 Wemerson Mota de Oliveira.
+Consulte [LICENSE](LICENSE). Referências externas mantêm seus próprios termos.
